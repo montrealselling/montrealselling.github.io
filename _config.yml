@@ -1,2 +1,3 @@
 name: Raymond Veron, the Things Teller
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
